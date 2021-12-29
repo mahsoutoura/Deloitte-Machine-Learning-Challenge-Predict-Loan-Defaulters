@@ -7,14 +7,21 @@ To solve this problem, MachineHack has created a training dataset of 67,463 rows
 https://machinehack.com/hackathon/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/overview
 
 Attributes
+
 ID: unique ID of representative
 
 Loan Amount: loan amount applied
+
 Funded Amount:loan amount funded
+
 Funded Amount Investor: loan amount approved by the investors
+
 Term: term of loan (in months)
+
 Batch Enrolled: batch numbers to representatives
+
 Interest Rate: interest rate (%) on loan
+
 Grade: grade by the bank
 Sub Grade: sub-grade by the bank
 Employment Duration: duration

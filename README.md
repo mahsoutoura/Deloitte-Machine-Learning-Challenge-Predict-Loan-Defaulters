@@ -8,6 +8,7 @@ https://machinehack.com/hackathon/deloitte_presents_machine_learning_challenge_p
 
 Attributes
 ID: unique ID of representative
+
 Loan Amount: loan amount applied
 Funded Amount:loan amount funded
 Funded Amount Investor: loan amount approved by the investors
